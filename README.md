@@ -1,7 +1,6 @@
 # SDL Helicopter Game
 
-An SDL2 based helicopter game built using C++
-This game is like the famous "Dinasour Game"!
+An SDL2 based helicopter game built using C++\nThis game is like the famous "Dinasour Game"!
 
 --------
 
